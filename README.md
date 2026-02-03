@@ -23,6 +23,6 @@ I verified the setup by checking the agent status in the Wazuh dashboard.
 * **Status** Active
 * **OS** Kali GNU/Linux
 * **Manager IP** Verified connection to my Ubuntu server
-* 
+  
 <img width="696" height="324" alt="CLI_SOC" src="https://github.com/user-attachments/assets/abed3b68-d282-4715-84e3-5e3182f72000" />
 
