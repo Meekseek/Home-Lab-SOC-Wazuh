@@ -23,7 +23,8 @@ I verified the setup by checking the agent status in the Wazuh dashboard.
 * **Status** Active
 * **OS** Kali GNU/Linux
 * **Manager IP** Verified connection to my Ubuntu server
-  
-<img width="696" height="324" alt="CLI_SOC" src="https://github.com/user-attachments/assets/abed3b68-d282-4715-84e3-5e3182f72000" />
-![Wazuh_dash](https://github.com/user-attachments/assets/019a7382-03fc-459b-8c20-0a95c914a188)
+
+![Wazuh_dash](https://github.com/user-attachments/assets/94329de3-fa1b-4ea7-90ad-49e88c2b5335)
+<img width="696" height="324" alt="CLI_SOC" src="https://github.com/user-attachments/assets/5b0bd272-e484-488c-8c74-2ec033e567d6" />
+
 
