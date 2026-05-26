@@ -36,8 +36,8 @@ By bypassing the cached dashboard widgets and utilizing the OpenSearch Discover 
 
 Crucially, real-time agent visibility was verified across both active operating systems, showing seamless telemetry ingestion for our Windows 11 Enterprise node alongside active Linux targets.
 
-![Wazuh_dash](https://github.com/user-attachments/assets/94329de3-fa1b-4ea7-90ad-49e88c2b5335)
 ![Wazuh Active Agents Dashboard](https://documentation.wazuh.com/current/_images/agents-monitoring.png)
+*Note: The environment image above illustrates the standardized Wazuh Active Agents layout. Local hypervisor nodes are spun down post-simulation to conserve compute resources.*
 <img width="696" height="324" alt="CLI_SOC" src="https://github.com/user-attachments/assets/5b0bd272-e484-488c-8c74-2ec033e567d6" />
 <img width="1517" height="893" alt="Screenshot 2026-05-23 191121" src="https://github.com/user-attachments/assets/c7133c32-49a4-4e82-88c0-28b790db829a" />
 
